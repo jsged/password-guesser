@@ -1,5 +1,5 @@
 
-![Password Guesser](https://github.com/jsged/password-guesser/blob/main/readme/Password%20Guesser.png?raw=true)
+![Password Guesser](https://github.com/jsged/password-guesser/readme/Password%20Guesser.png?raw=true)
 
 # Password Guesser
 
